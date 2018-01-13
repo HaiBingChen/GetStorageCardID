@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetStorageCardID", "GetStorageCardID\GetStorageCardID.vcproj", "{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PrimaII_EVB_CE6_SDK (ARMV4I) = Debug|PrimaII_EVB_CE6_SDK (ARMV4I)
+		Release|PrimaII_EVB_CE6_SDK (ARMV4I) = Release|PrimaII_EVB_CE6_SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Debug|PrimaII_EVB_CE6_SDK (ARMV4I).ActiveCfg = Debug|PrimaII_EVB_CE6_SDK (ARMV4I)
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Debug|PrimaII_EVB_CE6_SDK (ARMV4I).Build.0 = Debug|PrimaII_EVB_CE6_SDK (ARMV4I)
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Debug|PrimaII_EVB_CE6_SDK (ARMV4I).Deploy.0 = Debug|PrimaII_EVB_CE6_SDK (ARMV4I)
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Release|PrimaII_EVB_CE6_SDK (ARMV4I).ActiveCfg = Release|PrimaII_EVB_CE6_SDK (ARMV4I)
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Release|PrimaII_EVB_CE6_SDK (ARMV4I).Build.0 = Release|PrimaII_EVB_CE6_SDK (ARMV4I)
+		{A9EF2F3E-77A1-49A3-8301-ABF2D0F63C96}.Release|PrimaII_EVB_CE6_SDK (ARMV4I).Deploy.0 = Release|PrimaII_EVB_CE6_SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
